@@ -1,5 +1,4 @@
 const HtmlWebpackPlugin = require('html-webpack-plugin');
-const WatchExternalFilesPlugin = require('webpack-watch-files-plugin');
 const path = require('path');
 
 module.exports = {
