@@ -1,1 +1,5 @@
-console.log("hello, world");
+sayHello("Mason");
+
+function sayHello(name, from) {
+    console.log("Hello, Welcome " + name);
+}
